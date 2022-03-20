@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 0886a83f14eb146499dafee8f3aa6fa7
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 8a94dcd3e2ebf60499f5e74574671211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert10
+    second: {fileID: 2100000, guid: 16ef3073b6361074b9fea13023e49b19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert11
+    second: {fileID: 2100000, guid: 549df49716712964ca37a7f407fd140c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert12
+    second: {fileID: 2100000, guid: b80a37b8d2d8abb4f9b7ca836408bfc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert13
+    second: {fileID: 2100000, guid: f194bd5707c8df949b2bb033ab1c3987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert14
+    second: {fileID: 2100000, guid: 2aa8b38cb263f3b4193f290096e0fc4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert15
+    second: {fileID: 2100000, guid: 75bac42e8097da1429896f2ef1626ac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert17
+    second: {fileID: 2100000, guid: 436fcdfde2ea8a5409ee085406222961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert18
+    second: {fileID: 2100000, guid: 34d5fc10b673dab4bb74e3072e4fd256, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert20
+    second: {fileID: 2100000, guid: 59ef9cca6aa1c64449831cfc448aad32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert21
+    second: {fileID: 2100000, guid: 22a1f342eca146d4faafe23826bc7b51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert23
+    second: {fileID: 2100000, guid: 23b8b3e1a5820eb428958c846038e02b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert24
+    second: {fileID: 2100000, guid: 38737dcc4ca8c814e8339b9456237c4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert25
+    second: {fileID: 2100000, guid: 0456f77fcb3d3b146a567e3af607df8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert26
+    second: {fileID: 2100000, guid: ce473286b99b62442b4bcc29e1419d1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert27
+    second: {fileID: 2100000, guid: 1a09f111632ae04418a358b006e80595, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert28
+    second: {fileID: 2100000, guid: 3a6687850f183e24b83ae6f511d19182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert29
+    second: {fileID: 2100000, guid: 5515141879991254faf9756822189565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert30
+    second: {fileID: 2100000, guid: e63a32c807adeb54cb55e8d94033444b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert31
+    second: {fileID: 2100000, guid: 2bde30dacc2506e4db81e2d71ce1a74c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert32
+    second: {fileID: 2100000, guid: c033317c688f8694f9281f10824f85c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert33
+    second: {fileID: 2100000, guid: e6ce710564cbdda49b778f3bdfc3690d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert34
+    second: {fileID: 2100000, guid: 5d5947c525b546644b217cc377b37c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert35
+    second: {fileID: 2100000, guid: 9e5222782a56f8247b8640fb0a0f1d13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert36
+    second: {fileID: 2100000, guid: bbd5c3887a14c16418cf0bf341823aa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert39
+    second: {fileID: 2100000, guid: fc83ec02e29f4e44698b9d6db2915031, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert42
+    second: {fileID: 2100000, guid: 5c4e28d63dd8d3243b2c3e85f647a187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert43
+    second: {fileID: 2100000, guid: 362ac0bb781a48e47b97535e29d67124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert45
+    second: {fileID: 2100000, guid: a3e1bfd0be42b8f47ba61299145badb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert5
+    second: {fileID: 2100000, guid: 575627e46599a404485df7b51bbb622f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert50
+    second: {fileID: 2100000, guid: 90f826801ea29e14baba7a382bfb8344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert51
+    second: {fileID: 2100000, guid: 27d12531fbb011d40aff034b95fe0735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert6
+    second: {fileID: 2100000, guid: 8078c493a48cd714985b0c794886f480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert7
+    second: {fileID: 2100000, guid: 7c21a0632d9da6045a317048d18b1983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_lambert9
+    second: {fileID: 2100000, guid: 12e5a4774ae37b5469ba84d65ec05c26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_phong1
+    second: {fileID: 2100000, guid: 25075ba2b3815f947819865cdc971ac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_phong2
+    second: {fileID: 2100000, guid: 371e5a33329bb364f9afa63be03982ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_phong3
+    second: {fileID: 2100000, guid: 4a29afc3470e6a4408e90ca797aac5b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_phong4
+    second: {fileID: 2100000, guid: e1aaff317bd501e42840a741cfd8ae69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_phongE1
+    second: {fileID: 2100000, guid: e676b8d3afb6e1d4ab8803194a8dd6e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ghost_trap_phongE2
+    second: {fileID: 2100000, guid: edf8ef47398348a409f9abaf2108dba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: f6888e8546c757540b5341e2833f1f3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert17
+    second: {fileID: 2100000, guid: 72a18da707256bc46a675f063dfaca0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert18
+    second: {fileID: 2100000, guid: d05152e6c756baa488c7c11056dab74d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert19
+    second: {fileID: 2100000, guid: 0051c5fb4c541bb498cc2127a1ecb733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert20
+    second: {fileID: 2100000, guid: f51754759d10ab74a82d720beaf2ec86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: cd8c9f3eb85ee8e4fbac3373262ef190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oceanShader1
+    second: {fileID: 2100000, guid: 70d698ccb6ed8ab40b2661782bb942a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong10
+    second: {fileID: 2100000, guid: a279c0bdf145de94caf385b0fee021c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong11
+    second: {fileID: 2100000, guid: 0ab56e5626c0b6341923b6c798356ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong12
+    second: {fileID: 2100000, guid: 7f1810ceb4289294cafe12eb0159d36d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong15
+    second: {fileID: 2100000, guid: e3e1bb40103d9334aa45b86d66ed9dfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong16
+    second: {fileID: 2100000, guid: 85e89834aae8e724e8b1cd42b2f8dd1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong18
+    second: {fileID: 2100000, guid: e21dcf3e640a4e44dade1df619c3051b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong19
+    second: {fileID: 2100000, guid: b5ab36b742d89be42a1cafb4d313824b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: 672701b994af0e24da32729216dcf677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong20
+    second: {fileID: 2100000, guid: 3c315cb1f11e4d44abee05971ce69e22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: e25bed4d0d6cb91459a78f545cfa13c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong4
+    second: {fileID: 2100000, guid: 53a6621c2eecdd348bf6a884bdd9aca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong5
+    second: {fileID: 2100000, guid: aa31f22b54777fd4fabb3a25b68e4e92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong6
+    second: {fileID: 2100000, guid: 756bcf0d922862849a71a8d49905ac79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong7
+    second: {fileID: 2100000, guid: 0bce688ed5b55104095b0e5f63f2dda1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong8
+    second: {fileID: 2100000, guid: 77d95a8c9d93ad24ba920c498b0fe996, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE1
+    second: {fileID: 2100000, guid: 8f4c5b4101aa0a341833c45cb03aa426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE2
+    second: {fileID: 2100000, guid: d34f61ef737b66349bfe826e7e02f19a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE3
+    second: {fileID: 2100000, guid: 7056d6bb9a9486242995dd9b63b200b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE4
+    second: {fileID: 2100000, guid: 9aaa1d6985a2f4c4ea367f259ec4bcda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: protonpack_phong1
+    second: {fileID: 2100000, guid: ca2b427d773940244bd40a769b5b2b52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: protonpack_phong2
+    second: {fileID: 2100000, guid: 81815ea1dc6c77d4196b04d6827345f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: protonpack_phong3
+    second: {fileID: 2100000, guid: ee167c9b20da22442bd5fe9d6d748d63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: protonpack_phong4
+    second: {fileID: 2100000, guid: 12b169a05fd81ae43bf1b43f72a4ea8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: protonpack_phong5
+    second: {fileID: 2100000, guid: fda0cf097f8a29f4493bad902c1fbfa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: protonpack_phong6
+    second: {fileID: 2100000, guid: bbfb060a0e0267f45aeb978a5a9488ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: protonpack_phong7
+    second: {fileID: 2100000, guid: c8c6161f0c5a18442b8e3d6eb347ac59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: protonpack_phong8
+    second: {fileID: 2100000, guid: d78d403af56bcea4da5854c0f021c9a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: protonpack_phongE1
+    second: {fileID: 2100000, guid: 1a6b1479b6f1207468d8124396cada82, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1_4uE4QjjqiW2wjbMWKNKOMQ@2x
+    second: {fileID: 2800000, guid: 51f8c66541866594d9a5246c2b630718, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Black-Yellow Stripes
+    second: {fileID: 2800000, guid: f47d0a24844cd8b42a589fcf71373ffa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Screen-Shot-2016-09-26-at-17.20.53
+    second: {fileID: 2800000, guid: 6c30b2a24416a114f8ad79f0083e976e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: coin_PNG36907
+    second: {fileID: 2800000, guid: 4b835a512aad6a046adb9c66749f9f0a, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
